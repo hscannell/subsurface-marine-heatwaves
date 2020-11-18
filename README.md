@@ -37,7 +37,7 @@ The NOAA OISSTv2 dataset was provided by the NOAA/OAR/ESRL PSL, Boulder, Colorad
 
 Support
 -------
-This research was supported by NOAA Research and NOAA’s Global Ocean Monitoring and Observing Program. We recieved funding from NOAA (NA15OAR4320063) and the Leonardo DiCaprio Foundation and Microsoft (AI for Earth Innovation Grant).
+This research was supported by NOAA Research and NOAA’s Global Ocean Monitoring and Observing Program. We recieved funding from NOAA (NA15OAR4320063) and the Leonardo DiCaprio Foundation and Microsoft ([AI for Earth Innovation Grant](https://www.leonardodicaprio.org/ai-for-earth/)).
 
 Acknowledgments
 ----------------
