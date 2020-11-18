@@ -23,7 +23,7 @@ The reappearance of a northeast Pacific marine heatwave (MHW) sounded alarms in 
 
 Status
 ----------
-This paper was first published in <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL090548" target="_blank">Geophysical Research Letters</a> on November 16, 2020.
+This article has been accepted for publication in <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL090548" target="_blank">Geophysical Research Letters</a> on November 16, 2020 and has undergone full peer review.
 
 We welcome comments, questions, or feedback via github [issues](https://github.com/hscannell/subsurface-marine-heatwaves/issues) or by e-mail to Hillary Scannell (scannell@ldeo.columbia.edu).
 
