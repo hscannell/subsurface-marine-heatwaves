@@ -1,5 +1,5 @@
 # Subsurface Evolution and Persistence of Marine Heatwaves in the Northeast Pacific
----
+
 
 Authors
 --------
@@ -25,7 +25,7 @@ Status
 ----------
 This paper was first published in <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL090548" target="_blank">Geophysical Research Letters</a> on November 16, 2020.
 
-We welcome feedback via github [issues](https://github.com/hscannell/subsurface-marine-heatwaves/issues) or e-mail to Hillary Scannell (scannell@ldeo.columbia.edu).
+We welcome comments, questions, or feedback via github [issues](https://github.com/hscannell/subsurface-marine-heatwaves/issues) or by e-mail to Hillary Scannell (scannell@ldeo.columbia.edu).
 
 Code
 ----
