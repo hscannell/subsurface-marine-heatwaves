@@ -29,7 +29,7 @@ We welcome comments, questions, or feedback via github [issues](https://github.c
 
 Code
 ----
-The bulk of the analysis for this paper was performed on Microsoft Azure using a <a href="https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/" target="_blank">Data Science Virtual Machine</a>. The analysis contains a mix of MATLAB and Python code. The Python code leverage <a href="https://github.com/pydata/xarray" target="_blank">xarray</a> and <a href="https://github.com/TEOS-10/GSW-Python" target="_blank">GSW-Python</a>.
+The bulk of the analysis for this paper was performed on Microsoft Azure using a <a href="https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/" target="_blank">Data Science Virtual Machine</a>. The analysis contains a mix of MATLAB and Python code. The Python code leverages <a href="https://github.com/pydata/xarray" target="_blank">xarray</a> and <a href="https://github.com/TEOS-10/GSW-Python" target="_blank">GSW-Python</a>.
 
 Data
 ------
