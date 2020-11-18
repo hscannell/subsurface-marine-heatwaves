@@ -41,7 +41,7 @@ This research was supported by NOAA Research and NOAA’s Global Ocean Monitorin
 
 Acknowledgments
 ----------------
-Cloud resources from Microsfot Azure and technical guidance from <a href="https://github.com/pydata/xarray" target="_blank">Cloud resources from Microsfot Azure and technical guidance from <a href="https://escience.washington.edu/people/amanda-tan/" target="_blank">Amanda Tan</a> at the eScience Institue at the University of Washington. 
+Cloud resources were provided by Microsfot Azure. <a href="https://escience.washington.edu/people/amanda-tan/" target="_blank">Amanda Tan</a> from the eScience Institue at the University of Washington provided technical cloud computing support. 
 
 
 
