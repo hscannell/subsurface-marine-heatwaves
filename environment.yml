@@ -1,0 +1,24 @@
+name: scannell-grl2020 
+channels:
+  - conda-forge
+dependencies:
+  # IDE
+  - jupyter
+  - jupyterlab
+  - jupyter-server-proxy
+  - ipykernel
+  # Input/Output
+  - netcdf4
+  - zarr
+  - h5py
+  # Numerics
+  - numpy
+  - xarray
+  # Performance
+  - dask
+  # Visualization
+  - cartopy
+  - matplotlib
+  - pip>=20.1
+  - pip:
+      - gsw
