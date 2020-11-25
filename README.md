@@ -1,5 +1,5 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4291071.svg)](https://doi.org/10.5281/zenodo.4291071)
 # Subsurface Evolution and Persistence of Marine Heatwaves in the Northeast Pacific
+[![DOI](https://zenodo.org/badge/314039315.svg)](https://zenodo.org/badge/latestdoi/314039315)
 
 ### [Hillary A. Scannell](https://www.hillaryscannell.com/)<sup>1</sup>, [Gregory C. Johnson](https://www.pmel.noaa.gov/scientist/dr-gregory-c-johnson)<sup>2</sup>, [LuAnne Thompson](https://www.ocean.washington.edu/home/LuAnne+Thompson)<sup>1</sup>, [John M. Lyman](https://www.pmel.noaa.gov/scientist/dr-john-m-lyman)<sup>2,3</sup>, and [Steve C. Riser](https://www.ocean.washington.edu/home/Stephen_Riser)<sup>1</sup>.
 
