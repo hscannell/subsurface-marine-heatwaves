@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.1029/2020GL090548.svg)](https://doi.org/10.1029/2020GL090548)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4291071.svg)](https://doi.org/10.5281/zenodo.4291071)
 # Subsurface Evolution and Persistence of Marine Heatwaves in the Northeast Pacific
 
 --------
